@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SearchBoxContainer">
+        <item name="android:background">@color/primary</item>
+    </style>
+
+    <style name="SearchBoxContainer.input">
+        <item name="android:background">@drawable/textview_background</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>
